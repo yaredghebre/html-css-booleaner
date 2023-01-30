@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-size: 2.5rem;
 }
 
 /* HEADER */
@@ -17,5 +18,36 @@ body {
     height: 100px;
     margin-top: 60px;
     margin-left: 20px;
-    
 }
+ /* /HEADER */
+
+ /* COMMON */
+ .main-container{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin: 10px;
+ }
+ /* TITLE SECTION */
+ .subtitle{
+    color: gray;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+
+ h1{
+    font-size: 5rem;
+    margin-bottom: 0;
+ }
+
+ .span-subtitle{
+    color: lightskyblue;
+ }
+
+ .subtitle-date{
+    font-size: 2rem;
+    color: gray;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+/* /TITLE SECTION */
+ 
