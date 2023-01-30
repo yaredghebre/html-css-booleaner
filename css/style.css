@@ -1,3 +1,21 @@
-body{
-    background-color: green;
+/* CSS RESET */
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* HEADER */
+.header-container{
+    width: 100%;
+    height: 180px;
+    background-color: lightblue;
+    background-image: url('../img/pattern.png');
+}
+
+.header-logo{
+    height: 100px;
+    margin-top: 60px;
+    margin-left: 20px;
+    
 }
