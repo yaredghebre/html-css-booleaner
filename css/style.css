@@ -1,4 +1,5 @@
 /* CSS RESET */
+
 body {
     margin: 0;
     padding: 0;
@@ -7,10 +8,11 @@ body {
 }
 
 /* HEADER */
+
 .header-container{
     width: 100%;
     height: 180px;
-    background-color: lightblue;
+    background-color: rgb(0, 153, 255);
     background-image: url('../img/pattern.png');
 }
 
@@ -22,6 +24,7 @@ body {
  /* /HEADER */
 
  /* COMMON */
+
  .main-container{
     margin-top: 0;
     margin-bottom: 0;
@@ -34,6 +37,7 @@ body {
  }
 
  /* TITLE SECTION */
+
  .subtitle{
     color: gray;
     margin-top: 0;
@@ -46,7 +50,7 @@ body {
  }
 
  .span-subtitle{
-    color: lightskyblue;
+    color: rgb(0, 179, 255);
  }
 
  .subtitle-date{
@@ -57,9 +61,10 @@ body {
 /* /TITLE SECTION */
 
  /* /PICTURES SECTION */
+
  .main-img-container{
     width: 100%;
-    height: 600px;
+    height: 500px;
  }
 
  .tim-img1{
@@ -75,4 +80,23 @@ body {
 }
 /* /PICTURES SECTION */
  
+/* TABLE SECTION */
 
+table{
+    width: 100%;
+    border-spacing: 0px;
+}
+th{
+    padding: 0;
+    text-align: left;
+    background-color: rgb(0, 179, 255);
+}
+tr{
+    padding: 0;
+    text-align: left;
+    background-color: rgb(144, 219, 238);
+}
+#white-row{
+    background-color: white;
+}
+/* /TABLE SECTION */
