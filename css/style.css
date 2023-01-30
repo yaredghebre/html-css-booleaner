@@ -25,7 +25,7 @@ body {
  .main-container{
     margin-top: 0;
     margin-bottom: 0;
-    margin: 10px;
+    margin: 15px;
  }
  /* TITLE SECTION */
  .subtitle{
@@ -47,7 +47,17 @@ body {
     font-size: 2rem;
     color: gray;
     margin-top: 0;
-    margin-bottom: 0;
  }
 /* /TITLE SECTION */
+
+/* PICTURES SECTION */
+.main-picture{
+    height: 700px;
+}
+
+.picture-subtext{
+    margin-top: 0;
+    font-size: 1rem;
+}
+/* /PICTURES SECTION */
  
