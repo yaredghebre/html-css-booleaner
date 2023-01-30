@@ -3,7 +3,7 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 /* HEADER */
@@ -26,7 +26,13 @@ body {
     margin-top: 0;
     margin-bottom: 0;
     margin: 15px;
+    width: 100%;
  }
+
+ .yellow-highlighter{
+    background-color: #FFFF00;
+ }
+
  /* TITLE SECTION */
  .subtitle{
     color: gray;
@@ -50,14 +56,25 @@ body {
  }
 /* /TITLE SECTION */
 
-/* PICTURES SECTION */
-.main-picture{
-    height: 700px;
-}
+ /* /PICTURES SECTION */
+ .main-img-container{
+    width: 100%;
+    height: 600px;
+ }
 
+ .tim-img1{
+    height: 100%;
+
+ }
+ .tim-img2{
+    height: 100%;
+ }
 .picture-subtext{
     margin-top: 0;
     font-size: 1rem;
 }
 /* /PICTURES SECTION */
  
+/* LIST SECTION */
+
+/* /LIST SECTION */
