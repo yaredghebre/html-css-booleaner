@@ -64,6 +64,8 @@ header{
     width: 100%;
     margin 5px;
     display: flex;
+
+    /* .main-img-container img */
  }
 
  .tim-img1{
@@ -106,11 +108,11 @@ tr{
 /* FOOTER */
 footer{
     margin: 15px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 #footer-sentence{
-    margin-bottom: 50px;
+    margin-bottom: 5px;
     color: gray;
 }
 
